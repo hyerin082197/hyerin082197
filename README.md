@@ -3,13 +3,7 @@
 
 I'm a cloud & DevOps engineer with a strong interest in Kubernetes, Terraform, and monitoring/observability platforms.
 
-🌱 I’m currently learning **Microsoft Fabric** & **LangChain with Slackbot**  
-🔭 I’m currently working on:  
-- Azure Kubernetes Service (AKS) automation  
-- GitOps with ArgoCD, Helm, Kustomize  
-- Cost optimization with vCluster + OpenCost  
-
-📫 How to reach me
+How to reach me
 - ✉️ hyerin082197@gmail.com  
 - 📝 Blog: [merinsolutionsarchitect](https://merinsolutionsarchitect.tistory.com)  
 - 📂 GitHub Repos: [See my work here](https://github.com/hyerin082197)
