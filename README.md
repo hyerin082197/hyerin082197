@@ -21,9 +21,13 @@ I'm a cloud & DevOps engineer with a strong interest in Kubernetes, Terraform, a
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FD703B?style=flat-square&logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-277A9F?style=flat-square&logo=helm&logoColor=white)
+![Kustomize](https://img.shields.io/badge/Kustomize-7B4FE3?style=flat-square&logo=kubernetes&logoColor=white)
+![OpenCost](https://img.shields.io/badge/OpenCost-52796F?style=flat-square&logo=money&logoColor=white)
 
 ---
 
