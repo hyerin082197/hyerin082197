@@ -1,17 +1,18 @@
-
 ### 👋 Hello, I'm Hyerin!
 
 I'm a cloud & DevOps engineer with a strong interest in Kubernetes, Terraform, and monitoring/observability platforms.
 
 🌱 I’m currently learning **Microsoft Fabric** & **LangChain with Slackbot**  
-🔭 I’m currently working on:  
-- Azure Kubernetes Service (AKS) automation  
-- GitOps with ArgoCD, Helm, Kustomize  
-- Cost optimization with vCluster + OpenCost  
+🔭 I’m currently working on:
+
+- Azure Kubernetes Service (AKS) automation
+- GitOps with ArgoCD, Helm, Kustomize
+- Cost optimization with vCluster + OpenCost
 
 📫 How to reach me
-- ✉️ hyerin082197@gmail.com  
-- 📝 Blog: [merinsolutionsarchitect](https://merinsolutionsarchitect.tistory.com)  
+
+- ✉️ hyerin082197@gmail.com
+- 📝 Blog: [merinsolutionsarchitect](https://merinsolutionsarchitect.tistory.com)
 - 📂 GitHub Repos: [See my work here](https://github.com/hyerin082197)
 
 ---
@@ -24,15 +25,6 @@ I'm a cloud & DevOps engineer with a strong interest in Kubernetes, Terraform, a
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![Hyerin's GitHub stats](https://github-readme-stats-nine-blond-19.vercel.app/api?username=hyerin082197&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-nine-blond-19.vercel.app/api/top-langs/?username=hyerin082197&layout=compact&theme=tokyonight)
-
 
 <!--
 **hyerin082197/hyerin082197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
